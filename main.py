@@ -4,7 +4,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import ApplicationBuilder, CallbackQueryHandler, CommandHandler, ContextTypes
 
 # Credentials
-TELEGRAM_BOT_TOKEN = "8830057135:AAGhA-W170Cy36x0fG1bCbW2G2ySntxZIx0"
+TELEGRAM_BOT_TOKEN = "8830057135:AAGhA-W17OCy36x0fGlbCbW2G2ySntxZIx0"
 FIVESIM_API_KEY = "wk5Yk_VDunn1Nrnt72JbJ9nZNdQt6yqTx6uZUA3MkrjRCiEzA"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
